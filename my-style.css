@@ -1,0 +1,63 @@
+.center{
+	text-align: center;
+}
+
+p {
+	line-height: 1.5em;
+	text-align: justify; 
+	font-size: 15pt; 
+	color: black; 
+}
+
+.heading-tugas3 {
+	text-align: center;
+	font-family: "Cambria";
+}
+
+.intro-paragraph{ 
+	font-weight: bold;
+	color: black; 
+} 
+
+.last-paragraph{ 
+	font-style:italic; 
+	color:black; 
+}
+
+.table-font {
+	font-family: "Cambria";
+}
+
+.h1-tugas4 {
+	color: #bb4d4d;
+	text-align:center;
+	border-bottom: 5px solid green;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+
+img {
+    border: 4px solid #575D63;
+    padding: 6px;
+    width: 14%;
+    height: 150px;
+	margin: 6px;
+}
+
+.img-middle {
+    width: 14%;
+    height: 150px;
+    border: 7px solid red;
+    padding: 6px;
+}
+
+.body-tugas4 {
+	text-align: center;
+    width: auto;
+    margin: 10px auto;
+}
+
+h1 { 
+	text-align:center;
+	color: blue; 
+}
